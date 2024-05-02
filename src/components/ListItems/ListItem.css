@@ -1,0 +1,56 @@
+.items__card {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 15px;
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+}
+
+.card__top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+
+.card__price {
+  color: rgb(102, 102, 102);
+}
+
+.card__body__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card__button__wrapper {
+  background-color: orange;
+  padding: 5px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.button__ico {
+  font-size: 2rem;
+  color: white;
+  cursor: pointer;
+}
+
+.card__image {
+  max-width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1120px) {
+.card__image{
+  height: 200px;
+  width: 200px;
+}
+}
+
+@media screen and (max-width: 950px) {
+
+
+}

@@ -1,0 +1,68 @@
+.cart__element {
+
+    padding: 10px;
+    background-color: #fff; /* белый цвет фона */
+    border-radius: 8px;
+  }
+  
+  .cart__element__row {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cart__element__img {
+    margin-right: 10px;
+  }
+  
+  .cart__element__img img {
+    border-radius: 4px;
+  }
+  
+  .cart__element__title {
+    font-size: 18px;
+    color: #333; /* темно-серый цвет текста */
+    margin-bottom: 5px;
+    flex: 1; /* растягивает элемент на всю доступную ширину */
+  }
+  
+  .cart__element__price,
+  .cart__element__quantity,
+  .cart__element__total__price {
+    font-size: 16px;
+    color: #333; /* темно-серый цвет текста */
+    margin: 0 16px; /* отступы между элементами */
+  }
+  
+  .cart__element__total__price {
+    font-weight: bold;
+  }
+
+
+
+  .cart__element:last-child{
+    margin-bottom: 0;
+  }
+
+.cart__element__delete{
+    font-size: 27px;
+    cursor: pointer;
+}
+
+.cart__element__quantity{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.cart__element__minus, 
+.cart__element__plus{
+cursor: pointer;
+}
+
+@media screen and (max-width: 950px) {
+.cart__element__row{
+  display: flex;
+  flex-direction: column;
+  gap: 20px
+}
+}

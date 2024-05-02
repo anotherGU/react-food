@@ -1,0 +1,290 @@
+{
+  "sushi": [
+    {
+      "id": 0,
+      "name": "California with salmon",
+      "price": 2.5,
+      "image": "https://atlantis-food.md/wp-content/uploads/2022/02/California-Salmon.png",
+      "category": 0,
+      "type": 0
+    },
+    {
+      "id": 1,
+      "name": "Avacado Maki",
+      "price": 1,
+      "image": "https://caphook.ru/wp-content/uploads/2019/09/avokado-maki-min.png",
+      "category": 2,
+      "type": 0
+    },
+    {
+      "id": 2,
+      "name": "Maki with Salmon",
+      "price": 1.4,
+      "image": "https://d2j6dbq0eux0bg.cloudfront.net/images/64910856/2574070122.jpg",
+      "category": 2,
+      "type": 0
+    },
+    {
+      "id": 3,
+      "name": "Tuna Maki",
+      "price": 1.4,
+      "image": "https://www.sumeshi.ro/brasov/wp-content/uploads/2022/06/teka-maki.webp",
+      "category": 2,
+      "type": 0
+    },
+    {
+      "id": 4,
+      "name": "Philadelphia with Salmon",
+      "price": 3,
+      "image": "https://kilogram.ua/wp-content/uploads/2021/09/filadelfiya-klassik.png",
+      "category": 1,
+      "type": 0
+    },
+    {
+      "id": 5,
+      "name": "Philadelphia with Tuna",
+      "price": 3,
+      "image": "https://sushiandburrito.zt.ua/image/cache/catalog/IMG_0839-1000x1000.png",
+      "category": 1,
+      "type": 0
+    },
+    {
+      "id": 6,
+      "name": "Salmon nigiri",
+      "price": 1,
+      "image": "https://www.evrika.od.ua/wp-content/uploads/2018/12/%D0%BD%D0%B8%D0%B3%D0%B8%D1%80%D0%B8-%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D1%8C.png",
+      "category": 3,
+      "type": 0
+    },
+    {
+      "id": 7,
+      "name": "Tuna nigiri",
+      "price": 1.3,
+      "image": "https://aleksandrsann.ks.ua/image/cache/catalog/maki/xtuna--370x370h.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.tv6cHkZVyA.png",
+      "category": 3,
+      "type": 0
+    }
+  ],
+  "pizza": [
+    {
+      "id": 8,
+      "name": "Margarita",
+      "price": 2.99,
+      "image": "https://www.hearthandfirepizza.com/cdn/shop/products/product-beauty-the-margherita_grande.png?v=1656423819",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 9,
+      "name": "Marinara",
+      "price": 1.79,
+      "image": "https://www.pizzeriagraniantichi.it/templates/yootheme/cache/76/pizza-marinara-765f23a9.png",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 10,
+      "name": "4 Seasons",
+      "price": 4,
+      "image": "https://aleksandrsann.od.ua/image/cache/catalog/pizza/updated/4-seasons-500x500h.png",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 11,
+      "name": "4 Cheese",
+      "price": 3.5,
+      "image": "https://pizzulu.com/cdn/shop/products/IMG_6806_503x503.png?v=1642438512g",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 12,
+      "name": "Diabolo",
+      "price": 2.7,
+      "image": "https://aleksandrsann.ks.ua/image/cache/catalog/pizza/updated/diablo-500x500h.png",
+      "category": 2,
+      "type": 1
+    },
+    {
+      "id": 13,
+      "name": "Peperoni",
+      "price": 3.8,
+      "image": "https://prontopizza.ua/kolomyja/wp-content/uploads/sites/8/2021/07/paperoni-500x500.webp",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 14,
+      "name": "BBQ",
+      "price": 4,
+      "image": "https://www.pizzacity.dp.ua/wp-content/uploads/2020/12/BBQ.png",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 15,
+      "name": "Mexican",
+      "price": 2,
+      "image": "https://www.mexicangoldenchicken.com/wp-content/uploads/2023/11/mexican-veg-pizza-1.webp",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 16,
+      "name": "Vegan",
+      "price": 1.5,
+      "image": "https://palermo.if.ua/wp-content/uploads/2023/10/vegeteriana-min.png",
+      "category": 1,
+      "type": 1
+    }
+  ],
+  "hamburgers": [
+    {
+      "id": 17,
+      "name": "Cheeseburger",
+      "price": 2.99,
+      "image": "https://www.mcdonalds.com.sg/sites/default/files/2023-02/1200x1200_MOP_BBPilot_Cheeseburger_1.png",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 18,
+      "name": "Hamburger",
+      "price": 1.79,
+      "image": "https://tastyandpoint.com/wp-content/uploads/2021/05/humburger.webp",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 19,
+      "name": "Chicken burger",
+      "price": 4,
+      "image": "https://www.burgerandsauce.com/wp-content/uploads/2021/02/burger-and-suace-chicken-burger-3000px-2.1.png",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 20,
+      "name": "Double Cheeseburger",
+      "price": 3.5,
+      "image": "https://www.mcdonalds.com.sg/sites/default/files/2023-02/1200x1200_MOP_BBPilot_CheeseburgerDbl.png",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 21,
+      "name": "Double Hamburger",
+      "price": 2.7,
+      "image": "https://www.dairyqueen.com/dA/8b2418ed10/third-pound-double-cheeseburger.png/webp",
+      "category": 2,
+      "type": 1
+    },
+    {
+      "id": 22,
+      "name": "Fish burger",
+      "price": 3.8,
+      "image": "https://www.burgerking.ee/images/optimized/products/fish-king-desktop-3e3cdbd3f21509c5db718d00ec795994.png",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 23,
+      "name": "Cheeseburger With Bacon",
+      "price": 4,
+      "image": "https://www.whopper.ie/wp-content/uploads/2021/04/Bacon-Double-Cheeseburger_DE.png",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 24,
+      "name": "Super Burger",
+      "price": 2,
+      "image": "https://images.ctfassets.net/2iottqjdrp5h/zCwj2RxK3bbCzlEXLKLda/21d026fadac380854a902a460afedff2/SuperSONIC_Double_Cheeseburger.png",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 25,
+      "name": "Black Burger",
+      "price": 1.5,
+      "image": "https://assets.dots.live/misteram-public/0187466b-3f49-73a3-b6ae-f798ba1a33fe-826x0.png",
+      "category": 1,
+      "type": 1
+    }
+  ],
+  "snacks": [
+    {
+      "id": 26,
+      "name": "BBQ Doritos",
+      "price": 2.99,
+      "image": "https://hophey.ua/upload/iblock/154/0aka0g2ytwqx4702grvj14ermkrb3xp0/chipsy-kukuruznye-doritos-so-vkusom-barbekyu-100g.png",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 27,
+      "name": "Hot Pepper Doritos",
+      "price": 1.79,
+      "image": "https://hophey.ua/upload/iblock/754/08is2mu9rmbwu7ku2b8oes1ocwyeopne/chipsy-kukuruznye-doritos-so-vkusom-ostrogo-pertsa-100g.png",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 28,
+      "name": "Cheese Doritos",
+      "price": 0,
+      "image": "https://hophey.ua/upload/iblock/e75/ks8styk0pgmwopfrp16usnqxl2jn1um2/chipsy-kukuruznye-doritos-so-vkusom-syra-100g.png",
+      "category": 0,
+      "type": 1
+    },
+    {
+      "id": 29,
+      "name": "Lays Strong Hot Chicken Wings",
+      "price": 3.5,
+      "image": "https://images.prom.ua/4624643819_chipsy-lays-strong.jpg",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 30,
+      "name": "Lays Baked Grilled vegetables",
+      "price": 2.7,
+      "image": "https://products.pepsico.ua/uploads/products/lays-oven-125g_render_Grilled-vegetables_GDA_1000135409_5900259102560.png",
+      "category": 1,
+      "type": 1
+    },
+    {
+      "id": 31,
+      "name": "Pringles Original",
+      "price": 3.8,
+      "image": "https://content.fora.ua/sku/ecommerce/42/480x480fora/423903_480x480fora_99314238-9e5d-830d-f1bf-5b5f79cfc4ae.png",
+      "category": 2,
+      "type": 1
+    },
+    {
+      "id": 32,
+      "name": "Pringles Cheese & Onion",
+      "price": 4,
+      "image": "https://hophey.ua/upload/iblock/aa4/ka2ikrq9wqcowtzaa2211o8unqnk889d/chipsy-pringles-so-vkusom-syra-i-luka-165g.png",
+      "category": 2,
+      "type": 1
+    },
+    {
+      "id": 33,
+      "name": "Pringles Cheesy Cheese",
+      "price": 2,
+      "image": "https://hophey.ua/upload/iblock/21e/14axnuurp872iebsra4c0r0tvisu9s52/chipsy-pringles-so-vkusom-syra-165g.png",
+      "category": 2,
+      "type": 1
+    },
+    {
+      "id": 34,
+      "name": "Lays Hot Chili",
+      "price": 1.5,
+      "image": "https://hophey.ua/upload/iblock/b18/1bibmkh320ejotr7je75ulqyk1t8oxpp/chipsy-lay-s-strong-so-vkusom-chili-i-layma-120g.png",
+      "category": 1,
+      "type": 1
+    }
+  ]
+}

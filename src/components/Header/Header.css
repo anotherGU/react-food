@@ -1,0 +1,47 @@
+.header {
+  padding: 30px 0;
+
+  font-size: 2rem;
+  z-index: 10000;
+  width: 100%;
+  background-color: black;
+}
+
+.header__logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: white;
+}
+
+.cart__ico {
+  font-size: 2.7rem;
+}
+
+.header__cart {
+  position: relative;
+}
+
+.header__cart__count {
+  position: absolute;
+  background-color: red;
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+  bottom: -2px;
+  left: 20px;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__link {
+  text-decoration: none;
+  color: white;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
